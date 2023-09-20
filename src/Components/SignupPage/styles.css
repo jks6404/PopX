@@ -1,0 +1,44 @@
+h2{
+    margin: 0;
+}
+
+
+
+.agency-label{
+    font-weight: 500;
+    color: var(--black) !important;
+}
+
+span{
+    color: red;
+}
+
+label{
+    color: var(--purple) !important;
+}
+
+.yes{
+    color: var(--black) !important;
+    margin-right: 2rem;
+}   
+
+.radioClass{
+    accent-color: var(--purple);
+}
+
+.createBtn{
+    /* position: sticky; */
+    bottom: 0px;
+    width: 98%;
+    border: none;
+    margin-top: 2rem;
+    background-color: var(--purple);
+    color: var(--white);
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.createBtn:hover{
+    cursor: pointer;
+}

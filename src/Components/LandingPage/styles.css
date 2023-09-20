@@ -1,0 +1,49 @@
+
+.landing-container{
+    background-color: rgb(246, 245, 245);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    
+}
+
+.main-heading{
+    margin: 0%;
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+p{
+    margin: 0;
+    color: var(--grey);
+}
+
+.create-btn:hover{
+    cursor: pointer;
+}
+
+.login-btn:hover{
+    cursor: pointer;
+}
+
+.create-btn{
+    border: none;
+    margin-top: 2rem;
+    background-color: var(--purple);
+    color: var(--white);
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.login-btn{
+    border: none;
+    font-size: large;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    background-color: var(--lightpurple);
+    color: var(--white);
+    padding: 1rem;
+}
