@@ -11,11 +11,15 @@ Mobile view
 Mobile view
 ![image](https://github.com/jks6404/PopX/assets/119485859/290c9d5e-676c-478e-b2e1-c367bee6a1a5)
 
--profile page
+##profile page - the Profile component provides a personalized view of the user's account settings and details. It dynamically fetches and displays the user's name and email, making it easy for users to identify their account information. This page can serve as a central hub for users to manage their profile and account preferences within the application.
 ![image](https://github.com/jks6404/PopX/assets/119485859/eec90ab3-3b1e-4437-afaf-bc712240b448)
+Mobile view
+![image](https://github.com/jks6404/PopX/assets/119485859/ec6df38b-72df-4e76-baad-5e33f3c570e8)
 
 ##signin page-   the SignInPage component provides users with a login form to access their PopX account. It performs validation on the email and password fields, verifies user credentials against stored data, and manages user navigation and authentication within the application. The page serves as a secure entry point for users to access their accounts.
 ![image](https://github.com/jks6404/PopX/assets/119485859/697a8a6d-02a7-40c1-bb8c-8afe5abec28a)
+Mobile view 
+![image](https://github.com/jks6404/PopX/assets/119485859/7985c009-af90-4800-ae08-387cd33cfa42)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
