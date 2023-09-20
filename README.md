@@ -22,8 +22,8 @@ Mobile view
 ![image](https://github.com/jks6404/PopX/assets/119485859/7985c009-af90-4800-ae08-387cd33cfa42)
 
 
-Used Command
-npx create-react-app .
-npm i react-router-dom
-npm install @mui/material @emotion/react @emotion/styled
-npm start - to start the project on http://localhost:3000/
+##Used Command
+1.npx create-react-app .
+2.npm i react-router-dom
+3.npm install @mui/material @emotion/react @emotion/styled
+4.npm start - to start the project on http://localhost:3000/
