@@ -1,13 +1,15 @@
-.Upper{
-    background-color: purple;
-    padding: 0.5rem;
-    
-}
+
 
 .middle{
     margin-top: 1rem;
     display: flex;
     justify-content: flex-start;
+}
+
+img{
+  border-radius: 50%;
+  width: 50%;
+  margin-left: 30%;
 }
 
 .left{
@@ -21,32 +23,31 @@
 }
 
 .right{
-    margin-left: 2rem;
+    margin-right: 3rem;
 }
 
 .bottom{
     margin-top: 1rem;
     border-bottom: 1px dashed var(--black);
     padding: 0.5rem;
+    width: 25%;
 }
 
+.userPage-container{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 100px;
+  margin-right: 100px;
+}
 
-/* Media query for smartphones */
-@media (max-width: 768px) {
-    .middle {
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .left {
-      margin-bottom: 1rem;
-    }
-  
-    .right {
-      margin-left: 0; 
-    }
-  
-    .bottom {
-      padding: 0; 
-    }
-  }
+/* .hero{
+  width: 300px;
+} */
+
+#username{
+  font-weight: 700;
+}
+

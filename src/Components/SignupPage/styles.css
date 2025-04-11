@@ -29,7 +29,7 @@ label{
 .createBtn{
     /* position: sticky; */
     bottom: 0px;
-    width: 98%;
+    width: 16%;
     border: none;
     margin-top: 2rem;
     background-color: var(--purple);
@@ -41,4 +41,12 @@ label{
 
 .createBtn:hover{
     cursor: pointer;
+}
+
+.signup-container{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
 }

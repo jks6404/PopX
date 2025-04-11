@@ -1,6 +1,13 @@
 
+.main{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
 .landing-container{
     background-color: rgb(246, 245, 245);
+    width:300px ;
     height: 100vh;
     display: flex;
     flex-direction: column;

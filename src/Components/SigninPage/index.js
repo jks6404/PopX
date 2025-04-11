@@ -46,6 +46,7 @@ function SignInPage() {
 
 
   return (
+    <div className='signin-main'>
     <div className='signin-container'>
         <h2>Signin to your <br/>PopX account </h2>
         <p>Loerm ipsum dolor sit amet,<br/>consectetur adipiscing elit</p>
@@ -86,6 +87,7 @@ function SignInPage() {
         />
         </Box>
         <button className='signin-btn' onClick={()=> verify()}>Login</button>
+    </div>
     </div>
   )
 }

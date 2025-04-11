@@ -1,6 +1,15 @@
+.signin-main{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
 .signin-container{
     display: flex;
     flex-direction: column;
+    width: 300px;
 }
 .signin-btn:hover{
     cursor: pointer;
